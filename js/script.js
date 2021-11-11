@@ -58,7 +58,7 @@ let score = 0;
 let win = false;
 const SCOREINC = 10;
 const WINSCORE = SCOREINC * targetBlocks.length;
-const TIME = 5;
+const TIME = 30;
 const INTERVAL = 600;
 let timer;
 let timeLeft = TIME;
